@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KotoriInSky/FuckDQD/master/assets/icon/preview_masked.png" width="128" alt="FuckDQD" />
+<img src="https://raw.githubusercontent.com/KotoriInSky/FuckDQD/master/assets/icon/logo.png" width="160" alt="FuckDQD" />
 
 # FuckDQD
 
